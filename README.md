@@ -1,13 +1,13 @@
-About wp-deploy
-===============
+wp-deploy
+=========
 This script deploys a WordPress site from localhost to an online site via FTP, applying configuration changes so that the site still works at the new location.
 
 I use it mainly to transfer my WordPress site from my development server to a test/production server.
 
 By Chris Khoo (chris.khoo@gmail.com)
 
-Install
-=======
+Installation & Usage
+--------------------
 1. Copy file to web folder.
 
 2. Update settings in the wp-deploy.php file.
@@ -15,7 +15,7 @@ Install
 3. Run.
 
 Features
-========
+--------
 TODO - below is not exactly right.
 
 * Allows automatic backup & deployment of your WordPress site based on the hostname it is run from
